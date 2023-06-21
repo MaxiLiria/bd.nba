@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 
 
-const DB_URL = "mongodb+srv://root:root@cluster0.fj6svl9.mongodb.net/movies?retryWrites=true&w=majority";
+const DB_URL = "mongodb+srv://root:root@cluster0.dyckamq.mongodb.net/nba?retryWrites=true&w=majority";
 
 const connect = async() => {
     try {
